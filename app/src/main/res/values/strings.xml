@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BasicPractice</string>
+    <string name="TextView">TextView</string>
+    <string name="Button">Button</string>
+    <string name="EditText">EditText</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="ImageView">ImageView</string>
+    <string name="ListView">ListView</string>
+    <string name="GridView">GridView</string>
+
+    <string name="TextView_Text1">TextView_Text1</string>
+    <string name="TextView_Text2">TextView_Text2</string>
+    <string name="TextView_Text3">TextView_Text3</string>
+    <string name="TextView_Text4">TextView_Text4</string>
+    <string name="TextView_Text5">TextView_Text5</string>
+    <string name="TextView_Text6">TextView_Text6</string>
+    <string name="TextView_Text7">TextView_Text7TextView_Text7TextView_Text7TextView_Text7</string>
+
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="Button3">Button3</string>
+
+    <string name="AccountHint">账号</string>
+    <string name="PasswordHint">密码</string>
+    <string name="btnButton">Login</string>
+
+    <string name="btn_imv">LoadImage</string>
+
+</resources>

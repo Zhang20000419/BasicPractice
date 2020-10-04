@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:orientation="vertical"
+    android:background="@drawable/picture1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/TextView"
+            android:textAllCaps="false"
+            android:textSize="25sp"
+            android:background="@drawable/bk_solid"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/Button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="@string/Button"
+            android:textSize="25sp"
+            android:background="@drawable/bk_solid"
+            android:textAllCaps="false"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/EditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/EditText"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bk_solid"
+            android:textSize="25sp"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/RadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/RadioButton"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:background="@drawable/bk_solid"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/CheckBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CheckBox"
+            android:textAllCaps="false"
+            android:textSize="25sp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bk_solid"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/ImageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ImageView"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bk_solid"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/ListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ListView"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bk_solid"
+            android:textColor="@color/TextColor_purple"/>
+
+        <Button
+            android:id="@+id/GridView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/GridView"
+            android:textSize="25sp"
+            android:textAllCaps="false"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/bk_solid"
+            android:textColor="@color/TextColor_purple"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>
